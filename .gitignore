@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+examples/run_logs.jsonl
+*.pyc
+.pytest_cache/
+.coverage
+PROJECT_EXPLANATION.md
